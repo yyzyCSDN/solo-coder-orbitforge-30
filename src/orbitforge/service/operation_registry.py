@@ -12,6 +12,7 @@ OPERATIONS = {
     'conjunction.screen': 'Screen close approaches and collision risk',
     'ephemeris.interpolate': 'Interpolate position and velocity ephemerides',
     'mission.windows': 'Combine mission opportunity windows',
+    'mission.imaging': 'Compute imaging windows coupled by slew, settle and keepouts',
     'coverage.evaluate': 'Evaluate constellation coverage and revisit',
     'power.simulate': 'Propagate energy storage through mission modes',
 }
